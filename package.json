@@ -1,0 +1,28 @@
+{
+  "name": "meditrack-patient-appointment-system",
+  "version": "1.0.0",
+  "description": "A web-based patient and appointment management system designed to simplify healthcare operations. MediTrack helps doctors, patients, and admins efficiently manage appointments, medical records, and schedules.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadilshah2005/meditrack-patient-appointment-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aadilshah2005/meditrack-patient-appointment-system/issues"
+  },
+  "homepage": "https://github.com/aadilshah2005/meditrack-patient-appointment-system#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
